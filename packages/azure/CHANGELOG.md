@@ -1,5 +1,13 @@
 # @cloud-carbon-footprint/azure
 
+## 0.4.2
+
+### Patch Changes
+
+- Updated dependencies [91f88ab9]
+- Updated dependencies [560b4b70]
+  - @cloud-carbon-footprint/core@0.12.0
+
 ## 0.4.1
 
 ### Patch Changes

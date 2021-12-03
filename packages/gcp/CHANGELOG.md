@@ -1,5 +1,19 @@
 # @cloud-carbon-footprint/gcp
 
+## 0.5.0
+
+### Minor Changes
+
+- 560b4b70: "Add embodied emissions to the estimations for GCP"
+- 9b30bb5e: Add support for GCP Tau T2D (AMD EPYC Gen 3) instance types
+
+### Patch Changes
+
+- a9738abe: Updates packages axios, googleapis and @changesets/cli
+- Updated dependencies [91f88ab9]
+- Updated dependencies [560b4b70]
+  - @cloud-carbon-footprint/core@0.12.0
+
 ## 0.4.1
 
 ### Patch Changes

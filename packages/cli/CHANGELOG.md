@@ -1,5 +1,14 @@
 # @cloud-carbon-footprint/cli
 
+## 1.1.1
+
+### Patch Changes
+
+- 560b4b70: "Add embodied emissions to the estimations for GCP"
+- Updated dependencies [c6b0566a]
+- Updated dependencies [2cdd5dac]
+  - @cloud-carbon-footprint/app@0.3.1
+
 ## 1.1.0
 
 ### Minor Changes

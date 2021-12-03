@@ -1,5 +1,23 @@
 # @cloud-carbon-footprint/app
 
+## 0.3.1
+
+### Patch Changes
+
+- c6b0566a: Cache produces different data depending on which page is loaded
+
+  For changes to the create-app templates, please refer to this [commit](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/commit/70ae49e00e3d0bb3fd5c9e439a6a309bc9f04381)
+
+- 2cdd5dac: Removes logic that changes start/end dates to first or last of group by period, so API response is accurate
+- Updated dependencies [91f88ab9]
+- Updated dependencies [a9738abe]
+- Updated dependencies [560b4b70]
+- Updated dependencies [9b30bb5e]
+- Updated dependencies [f7dbc44f]
+  - @cloud-carbon-footprint/aws@0.6.0
+  - @cloud-carbon-footprint/gcp@0.5.0
+  - @cloud-carbon-footprint/azure@0.4.2
+
 ## 0.3.0
 
 ### Minor Changes
